@@ -1,0 +1,3 @@
+# PRAKTIKUM PW 2
+NIM	:H1101191031
+NAMA	:Yunida Salsabila
